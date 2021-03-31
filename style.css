@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+            
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-image: url(imagens/the\ witcher\ hell.png);
+    background-size: cover;
+
+}
+
+main {
+    background-image: url(imagens/the\ witcher\ kavil2.png);
+    height: 1022px;
+    width: 719px;
+    margin-left: 20%;
+    
+}
+
+.logo {
+    height: 96px;
+    width: 54px;
+    margin-left: 200px;
+    margin-right: 50px;
+    margin-top: 13px;
+   
+}
+
+.menu {
+    color: #fff;
+    list-style: none;
+    display: flex;
+    margin-right: 60px;
+    
+}
+
+li {
+    margin: 20px;
+    margin-left: 25px;
+}
+
+li:hover {
+    font-weight: bold;
+}
+
+.projeto-v {
+    color: #fff ;
+    margin-right: 300px;
+}
+
+
+.conteudo {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 13px;
+    align-items: center;
+}
+
+
+.the-w {
+
+   margin-left: 149px;
+   margin-top: 460px;
+}
+
+.assista {
+    margin-top: 20px;
+    margin-left: 190px;
+    
+}
+
+

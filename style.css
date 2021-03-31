@@ -26,9 +26,8 @@ main {
 .logo {
     height: 96px;
     width: 54px;
-    margin-left: 200px;
-    margin-right: 50px;
-    margin-top: 13px;
+    margin-left: 100px;
+    margin-top: 10px;
    
 }
 
@@ -36,7 +35,7 @@ main {
     color: #fff;
     list-style: none;
     display: flex;
-    margin-right: 60px;
+    margin-right: 70px;
     
 }
 
@@ -58,7 +57,7 @@ li:hover {
 .conteudo {
     display: flex;
     justify-content: space-between;
-    margin-top: 13px;
+    margin-top: 10px;
     align-items: center;
 }
 
